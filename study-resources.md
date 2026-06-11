@@ -11,4 +11,15 @@
 - Note- taking: cell phone
 
 ## Study Schedule
+| Day | Topic | Time |
+|-----|-------|------|
+| Monday| GitHub Basics| 2:00 pm - 3:00 pm |
+| Wednesday | Branching & Merging |2:00 pm - 3:00 pm |
+| Friday | Collaboration | 2:00 pm - 3:00 pm |
+
+## Quick Reference
+- Create branch: Branch dropdown - Type name - Create
+- Switch branch: Use branch dropdown menu
+- Commit changes; Add message - Commit
+  
 
