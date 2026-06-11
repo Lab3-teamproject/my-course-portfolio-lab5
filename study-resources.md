@@ -11,4 +11,4 @@
 - Note- taking: cell phone
 
 ## Study Schedule
-1 Day ! Topie ! Time !
+
